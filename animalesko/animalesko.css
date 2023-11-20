@@ -1,0 +1,71 @@
+Header {
+    background: #00bf63;
+    padding: 0px 0;
+}
+
+#imagem {
+    padding-left: 20px;
+    opacity: 100%;
+    height: 250px;
+}
+
+.caixa {
+    position: relative;
+    width: 940px;
+    margin: 0 auto;
+}
+
+.ok {
+    background-image: url();
+    opacity: 0.65;
+    height: 650px;
+    text-align: center;
+
+}
+
+nav {
+    position: absolute;
+    top: 110px;
+    right: 0;
+    left: 5;
+}
+
+nav li {
+    display: inline;
+    margin: 0 0 0 15px;
+    font-weight: bolder;
+    font-size: 22px;
+    font-family: 'Noto Serif JP', serif;
+    font-family: 'Roboto', sans-serif;
+}
+
+nav a {
+    text-transform: uppercase;
+    color: #000000;
+    font-weight: bold;
+    font: 40px;
+    text-decoration: none;
+}
+
+
+nav ul {
+    text-align: center;
+    padding-right: 400px
+}
+
+.caarlo .tx {
+    text-align: center;
+    width: 30px;
+    margin-top: 30px;
+
+}
+
+.XD {
+    padding-top: 50px;
+}
+
+.cor:hover {
+    border-color: rgb(12, 146, 166);
+    font-size: 20px;
+
+}
